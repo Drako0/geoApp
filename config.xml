@@ -10,7 +10,7 @@
 
         <preference name="phonegap-version" value="3.7.0" />
 
-        <name>Hotel App</name>
+        <name>Geo App</name>
 
         <description>
             Aplicación de Mapa
